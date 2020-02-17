@@ -1,4 +1,4 @@
-service: notes-app-ext-notes-api
+service: gacf-notes-api
 
 plugins:
   - serverless-bundle

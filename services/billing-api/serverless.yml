@@ -70,7 +70,7 @@ resources:
     NotePurchasedTopic:
       Type: AWS::SNS::Topic
       Properties:
-        TopicName: note-purchased-${self:custom.stage}
+        TopicName: gacf-note-purchased-${self:custom.stage}
 
   Outputs:
     NotePurchasedTopicArn:
