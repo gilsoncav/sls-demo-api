@@ -1,4 +1,4 @@
-service: notes-app-ext-notify-job
+service: gacf-notes-notify-job
 
 plugins:
   - serverless-bundle
